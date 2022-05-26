@@ -1,2 +1,2 @@
 # AutoKovaak
-A mouse control script
+A mouse control script for Kovaak
